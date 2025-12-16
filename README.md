@@ -94,7 +94,7 @@
 </div>
 
 <footer>
-    <p>© 2025 Trung Tâm Anh Văn Giao Tiếp Biên Hoà</p>
+    <p>© 2025 Trung Tâm Anh Văn Giao Tiếp Biên Hoà -19/6 Đường Thầy Trần, kp6, p Tân Biên, tp Biên Hoà, t Đồng Nai Hotline: 0903774745 (Thầy Trần)</p>
 </footer>
 
 </body>
