@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Anh Văn Giao Tiếp Biên Hoà | Tiếng Anh Giao Tiếp Biên Hoà Cho Người Đi Làm</title>
+    <title>Trung Tâm Anh Văn Giao Tiếp Biên Hoà | Tiếng Anh Giao Tiếp Biên Hoà Cho Người Đi Làm</title>
 
     <!-- SEO META -->
     <meta name="description" content="Trung Tâm Anh Văn Giao Tiếp Biên Hoà chuyên dạy tiếng anh giao tiếp cho người đi làm tại Biên Hoà và các vùng lân cận. Giảng dạy bởi Thầy Trần. Hotline 0903774745.">
