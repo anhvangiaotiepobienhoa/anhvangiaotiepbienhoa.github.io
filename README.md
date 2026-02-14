@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Học Tiếng Anh Giao Tiếp Biên Hoà | Cho người đi làm</title>
+<title>Tiếng Anh Giao Tiếp Biên Hoà | Cho người đi làm</title>
 
 <meta name="description" content="Trung Tâm Anh Văn Giao Tiếp Biên Hoà chuyên dạy anh văn giao tiếp và anh văn thương mại cho người đi làm. Học phản xạ thực tế, học tới khi giao tiếp được. Gọi ngay 0903774745">
 
@@ -72,7 +72,7 @@ padding:20px;
 
 <header>
 <h1>TRUNG TÂM ANH VĂN GIAO TIẾP BIÊN HOÀ</h1>
-<p>Dành cho người đi làm - mất gốc - phản xạ chậm</p>
+<p>Dành cho người đi làm - mất gốc - phản xạ chậm - thiếu tự tin giao tiếp</p>
 
 <div class="cta">
 <a class="btn" href="tel:0903774745">📞 Gọi ngay</a>
@@ -86,8 +86,8 @@ padding:20px;
 <h2>Vì sao nhiều người chọn học tại đây?</h2>
 <ul>
 <li>Học thực tế – dùng được ngay</li>
-<li>Lớp nhỏ kèm sát</li>
-<li>Sửa phát âm từng người</li>
+<li>Lớp 1 Thầy 1 Trò</li>
+<li>Sửa phát âm</li>
 <li>Cam kết giao tiếp được</li>
 </ul>
 </div>
@@ -95,10 +95,10 @@ padding:20px;
 <div class="card">
 <h2>Khoá học chính</h2>
 <ul>
-<li>Mất gốc → giao tiếp</li>
-<li>Giao tiếp công việc</li>
+<li>Anh văn giao tiếp cho người mất gốc</li>
+<li>Anh văn giao tiếp công việc</li>
 <li>Phỏng vấn xin việc</li>
-<li>Phản xạ nghe nói</li>
+<li>Anh văn du lịch và xuất cảnh</li>
 </ul>
 </div>
 
