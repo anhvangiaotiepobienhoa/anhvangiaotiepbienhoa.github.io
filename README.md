@@ -6,7 +6,7 @@
 
 <title>Học Tiếng Anh Giao Tiếp Biên Hoà | Cho người đi làm</title>
 
-<meta name="description" content="Trung tâm Anh văn giao tiếp Biên Hoà cho người đi làm. Học phản xạ thực tế, học tới khi giao tiếp được. Gọi ngay 0903774745">
+<meta name="description" content="Trung Tâm Anh Văn Giao Tiếp Biên Hoà chuyên dạy anh văn giao tiếp và anh văn thương mại cho người đi làm. Học phản xạ thực tế, học tới khi giao tiếp được. Gọi ngay 0903774745">
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 
@@ -111,7 +111,7 @@ padding:20px;
 </section>
 
 <footer>
-© Trung tâm Anh văn giao tiếp Biên Hoà
+© Trung Tâm Anh Văn Giao Tiếp Biên Hoà số 19/6 Đường Thầy Trần, kp 23, phường Long Bình, tỉnh Đồng Nai (ngay công viên 30/4 Hố Nai - Hông giáo xứ Hà Nội). Hotline: 0903774745 Thầy Trần
 </footer>
 
 </body>
