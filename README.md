@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Tiếng Anh Giao Tiếp Biên Hoà | Cho người đi làm</title>
+<title>Tiếng Anh Giao Tiếp Biên Hoà - Tiếng Anh Giao Tiếp Cho người đi làm</title>
 
 <meta name="description" content="Trung Tâm Anh Văn Giao Tiếp Biên Hoà chuyên dạy anh văn giao tiếp và anh văn thương mại cho người đi làm. Học phản xạ thực tế, học tới khi giao tiếp được. Gọi ngay 0903774745">
 
